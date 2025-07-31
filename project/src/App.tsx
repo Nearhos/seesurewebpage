@@ -156,8 +156,8 @@ function App() {
             <div className="relative">
               <div className="relative z-10 bg-white rounded-3xl shadow-2xl p-8 overflow-hidden">
                 <img 
-                  src="/chaotic_eeg.gif" 
-                  alt="Chaotic EEG Brainwave Patterns" 
+                  src="/image copy.png" 
+                  alt="Neural Network Visualization" 
                   className="w-full h-auto rounded-2xl"
                 />
               </div>
